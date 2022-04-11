@@ -1,2 +1,4 @@
-# Payment-Methods
-An assignment from SFSU's CSC413 course
+# Payment Methods
+This assignment aimed to demonstrate understanding of the DAO, DTO, Handler, Factory, and Builder design patterns written in Java.
+
+
